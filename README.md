@@ -6,13 +6,13 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"> <a href="https://twitter.com/whysaurjya" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="whysaurjya" /></a> </p>
+<p align="left"> <a href="https://x.com/subhxroy" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="[subhxroy]" /></a> </p>
 
 - ⚡ Visit my Website [Here](https://subhroy.diziver.com)
 
 - 📝 I regularly Create Content on [Instagram](https://www.instagram.com/subhxroy)
 
-- 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://subhroy.diziver.com)
+- 👨‍💻 All of my projects are available at [https://subhroy.diziver.com]
 
 - 📫 How to reach me **contact.subhroy@gmail.com**
 
@@ -46,5 +46,5 @@
 
 
 ###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whysaurjya&show_icons=true&locale=en&layout=compact" alt="whysaurjya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whysaurjya&show_icons=true&locale=en&layout=compact" alt="subhxroy" /></p>
 
