@@ -1,6 +1,6 @@
-[![MasterHead](https://subhroy.diziver.com/assets/imgs/opengraph.png)
-<h1 align="center">Hi 👋, I'm Saurjya Acharya</h1>
-<h3 align="center">A Design Entrepreneur from India who loves to Design Visuals and Strategies which turn ideas to brands</h3>
+![MasterHead](https://subhroy.diziver.com/assets/imgs/opengraph.png)
+<h1 align="center">Hi 👋, I'm Subh Roy</h1>
+<h3 align="center">A passionate web designer who loves turning ideas into beautiful, functional, and user-friendly websites.</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://subhroy.diziver.com)
 
-- 📫 How to reach me **rohanacharjee07@gmail.com**
+- 📫 How to reach me **contact.subhroy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
