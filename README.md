@@ -6,7 +6,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"> <a href="https://x.com/subhxroy" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="[subhxroy]" /></a> </p>
+<p align="left"> <a href="https://x.com/subhxroy" target="blank"><img src="https://img.shields.io/twitter/follow/subhxroy?logo=twitter&style=for-the-badge" alt="[subhxroy]" /></a> </p>
 
 - ⚡ Visit my Website [Here](https://subhroy.diziver.com)
 
