@@ -6,18 +6,18 @@
 
   <!-- Headline Typing Animation (Simulated using SVG) -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=30&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subh+Roy+👋;Full+Stack+Developer;AI+SaaS+Builder;Founder+of+DIZIVER" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=30&duration=3000&pause=1000&color=4f46e5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subh+Roy+👋;Full+Stack+Developer;AI+SaaS+Builder;UI%2FUX+Enthusiast" alt="Typing Animation" />
   </h1>
 
   <p>
-    <strong>Building the future of web applications with premium UI/UX and AI APIs.</strong>
+    <strong>Building digital products with code, design & AI.</strong>
   </p>
 
   <p>
-    <a href="https://subhroy.diziver.com" target="_blank">🌐 Website</a> &bull; 
-    <a href="mailto:contact.subhroy@gmail.com">✉️ Contact</a> &bull; 
-    <a href="https://x.com/subhxroy" target="_blank">🐦 Twitter</a> &bull; 
-    <a href="https://instagram.com/subhxroy" target="_blank">📸 Instagram</a> &bull;
+    <a href="https://subhxroy.framer.website/" target="_blank">🌐 Portfolio Website</a> &bull; 
+    <a href="mailto:contact.subhroy@gmail.com">✉️ Contact Me</a> &bull; 
+    <a href="https://x.com/subhxroy" target="_blank">🐦 Twitter / X</a> &bull; 
+    <a href="https://www.instagram.com/subhroyx/" target="_blank">📸 Instagram</a> &bull;
     <a href="https://linkedin.com/in/subhxroy" target="_blank">💼 LinkedIn</a>
   </p>
 </div>
@@ -26,11 +26,11 @@
 
 ### ✦ About Me
 
-I am a Full Stack Developer, UI/UX enthusiast, and AI product builder based in Assam, India. As the founder of **DIZIVER**, I specialize in designing and engineering premium MERN & Next.js applications, building zero-knowledge security architectures, and leveraging modern AI APIs to ship production-ready SaaS platforms.
+I am a Full Stack Developer, UI/UX enthusiast, and AI product builder based in Assam, India. I specialize in designing and engineering premium web applications, building secure zero-knowledge cryptographic systems, and leveraging generative AI APIs to launch functional, high-performance applications.
 
-- 🚀 Currently building: **Nexus AI** (a premium, deep-research search engine)
-- 🧠 Focus areas: **Generative AI integration**, **ephemeral communications**, **micro-animations**, and **UX systems**
-- ⚡ Fun fact: I combine design thinking, web performance optimization, and video editing to construct complete digital products.
+- 🚀 Currently building: **Nexus AI** (a Perplexity-style search & research engine)
+- 🧠 Focus areas: **React & Next.js ecosystem**, **client-side cryptography**, and **fluid micro-animations**
+- ⚡ Design-first: I believe that code and design must work in tandem to create exceptional developer and user experiences.
 
 ---
 
@@ -40,25 +40,25 @@ I am a Full Stack Developer, UI/UX enthusiast, and AI product builder based in A
   
 **Core Technologies**
 <br/>
-<a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://nextjs.org"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-f8fafc?style=for-the-badge&logo=react&logoColor=0ea5e9" /></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/next.js-f8fafc?style=for-the-badge&logo=nextdotjs&logoColor=000000" /></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-f8fafc?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-f8fafc?style=for-the-badge&logo=express&logoColor=000000" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-f8fafc?style=for-the-badge&logo=typescript&logoColor=3178c6" /></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-f8fafc?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
 
 **Database & Cloud**
 <br/>
-<a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-<a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+<a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-f8fafc?style=for-the-badge&logo=prisma&logoColor=2D3748" /></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-f8fafc?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
+<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-f8fafc?style=for-the-badge&logo=firebase&logoColor=FFCA28" /></a>
+<a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-f8fafc?style=for-the-badge&logo=sqlite&logoColor=07405E" /></a>
 
 **Design & Styling**
 <br/>
-<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="https://www.framer.com/motion"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /></a>
-<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-f8fafc?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
+<a href="https://www.framer.com/motion"><img src="https://img.shields.io/badge/Framer_Motion-f8fafc?style=for-the-badge&logo=framer&logoColor=0055FF" /></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-f8fafc?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
 
 </div>
 
@@ -139,15 +139,15 @@ Here are the projects that highlight my capabilities in AI integrations, advance
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=subhxroy&show_icons=true&theme=tokyonight&bg_color=0d0e29&title_color=c084fc&icon_color=00d2ff&text_color=94a3b8&border_color=1e1b4b" alt="Subh Roy GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=subhxroy&show_icons=true&theme=default&bg_color=f8fafc&title_color=4f46e5&icon_color=4f46e5&text_color=475569&border_color=e2e8f0" alt="Subh Roy GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhxroy&layout=compact&theme=tokyonight&bg_color=0d0e29&title_color=c084fc&icon_color=00d2ff&text_color=94a3b8&border_color=1e1b4b" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhxroy&layout=compact&theme=default&bg_color=f8fafc&title_color=4f46e5&icon_color=4f46e5&text_color=475569&border_color=e2e8f0" alt="Top Langs" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhxroy&theme=tokyonight&background=0d0e29&fire=c084fc&ring=00d2ff&text=94a3b8&stroke=1e1b4b" alt="Subh Roy Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhxroy&theme=default&background=f8fafc&ring=4f46e5&fire=4f46e5&text=475569&stroke=e2e8f0" alt="Subh Roy Streak Stats" />
 </div>
