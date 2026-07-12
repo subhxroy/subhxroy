@@ -1,17 +1,17 @@
 {
   "username": "subhxroy",
-  "generated_at": "2026-07-10T16:47:30Z",
+  "generated_at": "2026-07-12T10:44:33Z",
   "range": {
-    "start": "2025-07-06",
-    "end": "2026-07-10"
+    "start": "2025-07-13",
+    "end": "2026-07-12"
   },
   "total_contributions": 131,
   "active_days": 21,
   "avg_per_active_day": 6.2,
   "current_streak": {
-    "length": 4,
-    "start": "2026-07-07",
-    "end": "2026-07-10"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 5,
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-07-06",
-      "count": 0
-    },
-    {
-      "date": "2025-07-07",
-      "count": 0
-    },
-    {
-      "date": "2025-07-08",
-      "count": 0
-    },
-    {
-      "date": "2025-07-09",
-      "count": 0
-    },
-    {
-      "date": "2025-07-10",
-      "count": 0
-    },
-    {
-      "date": "2025-07-11",
-      "count": 0
-    },
-    {
-      "date": "2025-07-12",
-      "count": 0
-    },
     {
       "date": "2025-07-13",
       "count": 0
@@ -1556,6 +1528,14 @@
     {
       "date": "2026-07-10",
       "count": 1
+    },
+    {
+      "date": "2026-07-11",
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "count": 0
     }
   ]
 }
