@@ -23,6 +23,19 @@
 
 <br>
 
+### 🛠️ Featured Projects
+
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| 🎨 **[framerx](https://github.com/subhxroy/framerx)** | A modern Framer-inspired web experience focused on premium UI, smooth interactions, and responsive design. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 📡 **[sentira](https://github.com/subhxroy/sentira)** | A privacy-first surveillance system that utilizes Wi-Fi signals to detect presence without the use of cameras. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| 📈 **[ai-trader](https://github.com/subhxroy/ai-trader)** | An AI-powered algorithmic trading bot designed to analyze market trends and execute trades. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🛒 **[meatdae](https://github.com/subhxroy/meatdae)** | A full-featured online e-commerce platform with an integrated payment gateway and a dedicated admin panel. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🎵 **[openify](https://github.com/subhxroy/openify)** | A free, retro-themed desktop music player designed for a seamless listening experience. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔒 **[anonymous](https://github.com/subhxroy/anonymous)** | A premium privacy-first ephemeral messaging application with secure digital vaults. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+
+<br>
+
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
