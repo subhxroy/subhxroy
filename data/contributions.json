@@ -1,17 +1,17 @@
 {
   "username": "subhxroy",
-  "generated_at": "2026-08-20T00:59:28Z",
+  "generated_at": "2026-08-21T01:03:02Z",
   "range": {
     "start": "2025-08-17",
-    "end": "2026-08-20"
+    "end": "2026-08-21"
   },
   "total_contributions": 382,
   "active_days": 46,
   "avg_per_active_day": 8.3,
   "current_streak": {
-    "length": 14,
-    "start": "2026-08-06",
-    "end": "2026-08-19"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 14,
@@ -1551,6 +1551,10 @@
     },
     {
       "date": "2026-08-20",
+      "count": 0
+    },
+    {
+      "date": "2026-08-21",
       "count": 0
     }
   ]
